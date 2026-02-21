@@ -1,0 +1,351 @@
+﻿  Main_Dibujo2D.cpp
+C:\Users\monic\Downloads\Practica2\Practica2\Main_Dibujo2D.cpp(1,1): error C2059: error de sintaxis: '/'
+C:\Users\monic\Downloads\Practica2\Practica2\Main_Dibujo2D.cpp(1,3): error C2014: el comando de preprocesador debe empezar con un primer espacio que no esté en blanco
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1679,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1679,19): error C2146: error de sintaxis: falta ';' delante del identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1679,19): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1685,68): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1693,71): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(2527,105): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(2528,120): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(3478,82): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4030,96): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4032,104): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4151,28): error C2165: 'modificador en lado izquierdo': no se pueden modificar los punteros a datos
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4151,72): error C2146: error de sintaxis: falta ')' delante del identificador 'indirect'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4209,96): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4346,101): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4354,101): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4369,82): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4375,76): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4379,104): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4380,102): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4381,105): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4382,103): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4399,76): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4402,73): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4413,112): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4429,109): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4437,113): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4438,130): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(4438,145): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5354,106): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5355,121): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5517,78): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5557,77): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5558,71): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5605,123): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5605,138): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5609,109): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(5609,124): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(6872,78): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(7096,107): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(7097,130): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(7737,99): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(7839,92): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(7840,120): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9165,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9165,9): error C2378: 'GLintptr': nueva definición; no se puede sobrecargar el símbolo con typedef
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+      C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1679,19):
+      vea la declaración de 'GLintptr'
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9165,19): error C2059: error de sintaxis: '__stdcall'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9693,85): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9720,79): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9743,79): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9789,76): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9790,104): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9862,135): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9863,113): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9864,126): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9865,123): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9866,159): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9867,124): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9868,144): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9869,138): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9871,157): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9872,178): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(9873,136): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(10266,79): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(10267,84): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(10939,80): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(10940,74): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(12780,103): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(12781,102): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(12919,157): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(13225,82): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14052,100): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14144,113): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14145,128): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14337,91): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14337,105): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14339,75): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14339,89): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(14461,98): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(15070,99): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(15071,148): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16805,102): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16806,101): error C2061: error de sintaxis: identificador 'GLintptr'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16883,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16883,9): error C2378: 'GLintptr': nueva definición; no se puede sobrecargar el símbolo con typedef
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+      C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(1679,19):
+      vea la declaración de 'GLintptr'
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16883,18): error C2146: error de sintaxis: falta ';' delante del identificador 'GLvdpauSurfaceNV'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16883,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16886,28): error C2165: 'modificador en lado izquierdo': no se pueden modificar los punteros a datos
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16886,76): error C2146: error de sintaxis: falta ')' delante del identificador 'surface'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16888,28): error C2165: 'modificador en lado izquierdo': no se pueden modificar los punteros a datos
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16888,73): error C2146: error de sintaxis: falta ')' delante del identificador 'surface'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16889,79): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16889,101): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16890,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16890,9): error C2378: 'GLvdpauSurfaceNV': nueva definición; no se puede sobrecargar el símbolo con typedef
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+      C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16883,18):
+      vea la declaración de 'GLvdpauSurfaceNV'
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16890,27): error C2059: error de sintaxis: '__stdcall'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16891,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16891,9): error C2378: 'GLvdpauSurfaceNV': nueva definición; no se puede sobrecargar el símbolo con typedef
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+      C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16883,18):
+      vea la declaración de 'GLvdpauSurfaceNV'
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16891,27): error C2059: error de sintaxis: '__stdcall'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16892,28): error C2165: 'modificador en lado izquierdo': no se pueden modificar los punteros a datos
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16892,77): error C2146: error de sintaxis: falta ')' delante del identificador 'surface'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16893,80): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16893,102): error C2143: error de sintaxis: falta ',' delante de '*'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16894,28): error C2165: 'modificador en lado izquierdo': no se pueden modificar los punteros a datos
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(16894,81): error C2146: error de sintaxis: falta ')' delante del identificador 'surface'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(21231,17): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(21231,46): error C2146: error de sintaxis: falta ';' delante del identificador '__glewGetUniformOffsetEXT'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(21231,46): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(22407,17): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(22407,55): error C2146: error de sintaxis: falta ';' delante del identificador '__glewVDPAURegisterOutputSurfaceNV'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(22407,55): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(22408,17): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(22408,54): error C2146: error de sintaxis: falta ';' delante del identificador '__glewVDPAURegisterVideoSurfaceNV'
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\External Libraries\GLEW\include\GL\glew.h(22408,54): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Main_Dibujo2D.cpp")
+  
+C:\Users\monic\Downloads\Practica2\Practica2\Main_Dibujo2D.cpp(151,2): error C2059: error de sintaxis: 'user-defined literal'
