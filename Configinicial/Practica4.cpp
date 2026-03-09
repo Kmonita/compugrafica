@@ -1,7 +1,7 @@
 //Práctica4
 //Urzua Cruz Monica Ixchel
 //320110450
-//Fecha de entrega 05 de marzo 2026 
+//Fecha de entrega 02 de marzo 2026 
 
 
 #include <iostream>
